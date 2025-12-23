@@ -1,5 +1,5 @@
 # vMix-Patch
-Community driven patches for vMix Pro 
+Community driven patches for vMix Pro 29
 # vMix Patches
 
 Community-driven enhancement patches for vMix Live Production Software.
@@ -15,8 +15,8 @@ built using **official vMix APIs and supported features**.
 - Performance optimization guides
 
 ## Supported vMix Versions
-- vMix 25+
-- vMix 26+
+- vMix 29.0.0.41
+- vMix 29
 
 ## Disclaimer
 This project does NOT modify vMix binaries or bypass licensing.
